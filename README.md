@@ -36,4 +36,4 @@ I am a **UI Designer and Frontend Developer** currently studying at **SAIT**. I 
 ---
 
 ### 📊 GitHub Activity
-![Zeynep's Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Zeynep's Stats](https://github-readme-stats.vercel.app/api?username=zeynep-ozdemir1905&show_icons=true&theme=radical)
