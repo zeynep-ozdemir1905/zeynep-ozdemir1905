@@ -24,7 +24,15 @@ I am a **UI Designer and Frontend Developer** currently studying at **SAIT**. I 
 
 * 📱 Developing mobile apps with **React Native** and **Expo**.
 * 🎨 Crafting prototypes and high-fidelity designs in **Figma**.
-* 🚀 Building projects like **GoApricot** and **Planora**.
+* 🚀 Building impactful digital solutions for real-world problems.
+
+---
+
+### Featured Projects 🌟
+
+- **[GoApricot](https://github.com/paphopta/GoApricotApp)** - A comprehensive workforce management application built to digitize administrative records.
+- **[Campus Navigator](https://github.com/S-hussaini/campus-navigator)** - A navigation tool designed to help students find their way around campus efficiently.
+- **[Diet Analysis Project](https://github.com/S-hussaini/cprg306-project)** - A cloud-native web application focusing on data visualization and user health tracking.
 
 ---
 
@@ -39,3 +47,9 @@ I am a **UI Designer and Frontend Developer** currently studying at **SAIT**. I 
 </p>
 
 ---
+
+### GitHub Stats 📈
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=zeynep-ozdemir1905&show_icons=true&theme=radical" alt="Zeynep's Stats" />
+</p>
