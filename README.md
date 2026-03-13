@@ -1,7 +1,7 @@
 <# Hi there! 👋 I'm Zeynep
 
 <p align="center">
-  <img src="./https://github.com/zeynep-ozdemir1905/zeynep-ozdemir1905/blob/main/67911a509964fe9a88f8813f_67911a33c5f33a0a8498dca8_Screen202025-01-222011.14.46%2520AM.webp" width="100%" alt="Zeynep's Portfolio Banner" />
+  <img src="67911a509964fe9a88f8813f_67911a33c5f33a0a8498dca8_Screen202025-01-222011.14.46%20AM.webp" width="100%" alt="Zeynep's Portfolio Banner" />
 </p>
 
 ### 🎨 About Me
