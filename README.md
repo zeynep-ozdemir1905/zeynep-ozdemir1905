@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://zeynepportfoy.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-grey?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-pink?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 </p>
 
