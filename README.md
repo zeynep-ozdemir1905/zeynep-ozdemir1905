@@ -1,7 +1,7 @@
 <# Hi there! 👋 I'm Zeynep
 
 <p align="center">
-  <img src="banner.webp" width="100%" alt="Zeynep's Portfolio Banner" />
+  <img src="banner1.webp" width="100%" alt="Zeynep's Portfolio Banner" />
 </p>
 
 ### 🎨 About Me
