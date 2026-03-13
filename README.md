@@ -1,4 +1,4 @@
- Hi there! 👋 I'm Zeynep Ozdemir
+# Hi there! 👋 I'm Zeynep Ozdemir
 
 <p align="center">
   <img src="banner1.webp" width="100%" alt="Zeynep's Portfolio Banner" />
@@ -25,12 +25,17 @@ I am a **UI Designer and Frontend Developer** currently studying at **SAIT**. I 
 * 📱 Developing mobile apps with **React Native** and **Expo**.
 * 🎨 Crafting prototypes and high-fidelity designs in **Figma**.
 * 🚀 Building projects like **GoApricot** and **Planora**.
+
 ---
 
-### About Me 🚀
+### Technical Skills 🛠️
 
-I am a **UI Designer and Frontend Developer** currently studying at **SAIT**. I specialize in creating intuitive mobile and web experiences, focusing on clean aesthetics and user-centric design.
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+</p>
 
-* 📱 Developing mobile apps with **React Native** and **Expo**.
-* 🎨 Crafting prototypes and high-fidelity designs in **Figma**.
-* 🚀 Building projects like **GoApricot** and **APAS**.
+---
