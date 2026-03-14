@@ -33,6 +33,7 @@ I am a **UI Designer and Frontend Developer** currently studying at **SAIT**. I 
 - **[GoApricot](https://github.com/paphopta/GoApricotApp)** - A comprehensive workforce management application built to digitize administrative records.
 - **[Campus Navigator](https://github.com/S-hussaini/campus-navigator)** - A navigation tool designed to help students find their way around campus efficiently.
 - **[VolunteerApp](https://github.com/S-hussaini/cprg306-project)** - A cloud-native web application focusing on data visualization and user health tracking.
+- **[Portfolio](https://github.com/zeynep-ozdemir1905/zeynepportfoy)** - My Portfolio
 
 ---
 
