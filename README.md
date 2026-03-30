@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Zeynep Ozdemir
+ Zeynep Ozdemir
 
 <p align="center">
   <img src="banner1.webp" width="100%" alt="Zeynep's Portfolio Banner" />
@@ -18,17 +18,17 @@
 
 ---
 
-### About Me 🚀
+### About Me 
 
 I am a **UI Designer and Frontend Developer** currently studying at **SAIT**. I specialize in creating intuitive mobile and web experiences, focusing on clean aesthetics and user-centric design.
 
-* 📱 Developing mobile apps with **React Native** and **Expo**.
-* 🎨 Crafting prototypes and high-fidelity designs in **Figma**.
-* 🚀 Building impactful digital solutions for real-world problems.
+*  Developing mobile apps with **React Native** and **Expo**.
+*  Crafting prototypes and high-fidelity designs in **Figma**.
+*  Building impactful digital solutions for real-world problems.
 
 ---
 
-### Featured Projects 🌟
+### Featured Projects 
 
 - **[GoApricot](https://github.com/paphopta/GoApricotApp)** - A comprehensive workforce management application built to digitize administrative records.
 - **[Campus Navigator](https://github.com/S-hussaini/campus-navigator)** - A navigation tool designed to help students find their way around campus efficiently.
