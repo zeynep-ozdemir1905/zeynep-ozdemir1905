@@ -31,8 +31,8 @@ Committed to accessibility (WCAG), clean code, and sustainable, maintainable sof
 -**[Portfolio](https://github.com/zeynep-ozdemir1905/zeynepportfoy)** — My personal portfolio site.
 - **[GoApricot](https://github.com/paphopta/GoApricotApp)** — A workforce management application built to digitize administrative records.
 - **[Campus Navigator](https://github.com/S-hussaini/campus-navigator)** — A navigation tool designed to help students find their way around campus efficiently.
-- **[StudyApp](https://github.com/clearnext)** — A deployable study buddy for pomodoro sessions made for Hackathon
-- **[StudyApp](https://github.com/LockInAI)** — A chrome extension that is installable, and uses AI to detect whether you are on a different screen and helps you be focused on your work made for Hackathon
+- **[StudyApp](https://github.com/JGenereux/clearnext)** — A deployable study buddy for pomodoro sessions made for Hackathon
+- **[AI extension](https://github.com/SaladStik/LockInAI)** — A chrome extension that is installable, and uses AI to detect whether you are on a different screen and helps you be focused on your work made for Hackathon
 - 
 -
 
